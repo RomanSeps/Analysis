@@ -16,7 +16,7 @@ Mezi nejprodávanější hry tohoto žánru patří např.:
 - Také patří mezi starší série tohoto žánru.
 - Poslední díl "Counter-strike 2" dodnes překonává rekordy hratelnosti této série.
 - Jedná se o **nejhratelnější** hru na Steamu.
-![Counter-strike]()
+![Counter-strike](CounterStrike.png)
 
 ## Série Halo
 - Jedna ze starčích herních sérií.
