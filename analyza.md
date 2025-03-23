@@ -9,14 +9,14 @@ Mezi nejprodávanější hry tohoto žánru patří např.:
 - Od dílu "Black Ops" z roku 2010, prodeje těchto her zpravidla přesahují 20 milionů prodaných kopií.
 - Jedná se o jednu ze starších herních sérií.
 - Hry série, se z pravidla stále pohybují v žebříčku nejhranějších FPS her na světě.
-![]()
+![Call of Duty](960x0.jpg)
 
 ## Série Counter-strike
 - I přestože je poslední, nejpopulárnější díl série zdarma. Série stále patří mezi nejprodávanější / nejvýdělečnější série tohoto žánru.
 - Také patří mezi starší série tohoto žánru.
 - Poslední díl "Counter-strike 2" dodnes překonává rekordy hratelnosti této série.
 - Jedná se o **nejhratelnější** hru na Steamu.
-![]()
+![Counter-strike]()
 
 ## Série Halo
 - Jedna ze starčích herních sérií.
