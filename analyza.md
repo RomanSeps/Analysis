@@ -1,6 +1,6 @@
 # Analýza prodejnosti FPS her
 Analýza prodejnosti her, ukazuje na to, že právě FPS hry patří mezi nejprodávanější žánr her na trhu.
-![Graf]()
+![Graf](Top-PC-game-genres-in-2023.webp)
 Mezi nejprodávanější hry tohoto žánru patří např.:
 
 ## Série Call of Duty
